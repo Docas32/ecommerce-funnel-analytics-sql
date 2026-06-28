@@ -1,4 +1,4 @@
-# ítulo do Projeto: Análise de Funil de E-commerce & Comportamento do Consumidor com BigQuery
+# Análise de Funil de E-commerce & Comportamento do Consumidor com BigQuery
 
 1. O Problema de Negócio
 Para otimizar as campanhas de marketing e a experiência do usuário na plataforma, o negócio precisava responder a quatro perguntas críticas:
